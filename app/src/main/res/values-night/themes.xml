@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Paraaaa" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/purple</item> --строка состояния
+        <item name="android:textColor">@color/pinkpurple</item>
+        <item name="android:textColorPrimary">@color/pinkpurple</item>
+
+        <item name="android:navigationBarColor">@color/purple</item>
+    </style>
+    <style name="Img" parent="Theme.AppCompat.DayNight">
+        <item name="tint"> @color/pink</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/crossWinsbot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/cross_wins"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/circleWinsbot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/circle_wins"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/drawsbot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/draws"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/buttonexit"
+        android:layout_width="250dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="200px"
+        android:text="Вернуться" />
+
+
+</LinearLayout>

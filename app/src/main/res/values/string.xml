@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Противник - человек</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="mine">Меню</string>
+    <string name="gamebot">Противник - бот</string>
+    <string name="cross_wins">Крестики:</string>
+    <string name="circle_wins">Нолики:</string>
+    <string name="draws">Ничьи:</string>
+    <string name="drawsbot">Ничьи: </string>
+</resources>
